@@ -1,4 +1,4 @@
-# Crypto Coin Tracker
+# Crypto Coin Analysis
 
 ## Overview
 Crypto Coin Tracker is a full-stack web application that allows users to view details of various cryptocurrency coins. The project fetches real-time data from the CoinGecko API to display key metrics such as price, market cap, volume, and more.
